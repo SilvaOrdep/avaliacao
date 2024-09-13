@@ -1,10 +1,10 @@
+package questao01;
+
 public class Fibonacci {
-    private int a;
-    private int b;
-    private int c;
+    private int a,b,c;
 
     public Fibonacci() {
-        this.a=1;
+        this.a=0;
         this.b=1;
         this.c=this.a+this.b;
     }
